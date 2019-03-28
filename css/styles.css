@@ -1,3 +1,23 @@
-#story {
-  display: none;
+.rides {
+
+}
+
+/* 24 inches or shorter */
+.baby {
+
+}
+
+/* 24-48 inches */
+.child {
+
+}
+
+/* 48-72inches */
+.adult {
+
+}
+
+/* Too tall (72+inches) */
+.giant {
+
 }
