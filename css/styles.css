@@ -2,22 +2,16 @@
 
 }
 
+.rideDescription1, .rideDescription2, .rideDescription3, .rideDescription4 {
+  display: none;
+  background-color: yellow;
+}
+
 /* 24 inches or shorter */
-.baby {
-
+.green {
+  background-color: green;
 }
 
-/* 24-48 inches */
-.child {
-
-}
-
-/* 48-72inches */
-.adult {
-
-}
-
-/* Too tall (72+inches) */
-.giant {
-
+.red {
+  background-color: red;
 }
